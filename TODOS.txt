@@ -1,0 +1,7 @@
+Read through the code base throughly
+Add rooms logic
+Allow more than three members in the video call
+Adjust Styling
+Fix issues -> logout,Store user details and enable access to text editor when both of them are logined
+CRTF -> try to incoroporate yjs into this (if possible for text editor)
+In text editor , explore different possibilities in that
